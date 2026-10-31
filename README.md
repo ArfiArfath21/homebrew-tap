@@ -3,6 +3,7 @@
 Homebrew casks for apps by [ArfiArfath21](https://github.com/ArfiArfath21).
 
 ```bash
+brew trust arfiarfath21/tap        # once: recent Homebrew only loads casks from trusted taps
 brew install arfiarfath21/tap/cloister
 brew install arfiarfath21/tap/sleight
 ```
