@@ -1,10 +1,10 @@
 cask "sleight" do
-  version "0.1.0"
-  sha256 "aef9375c4fb054ee4b6f476312e1b2abf017118a321d7876ca9dd7d62934a799"
+  version "0.2.0"
+  sha256 "d29a05e6d0cfa428ad3fe7516d98624924acfba83617084efbdfc5b8e6119441"
 
   url "https://github.com/ArfiArfath21/sleight/releases/download/v#{version}/Sleight.dmg"
   name "Sleight"
-  desc "Camera hand gestures: recognised by Sleight, assigned by you"
+  desc "Control your Mac with hand gestures and on-device voice commands"
   homepage "https://github.com/ArfiArfath21/sleight"
 
   livecheck do
