@@ -1,6 +1,6 @@
 cask "sleight" do
-  version "0.2.0"
-  sha256 "d29a05e6d0cfa428ad3fe7516d98624924acfba83617084efbdfc5b8e6119441"
+  version "0.3.0"
+  sha256 "d3e643f2290575d2895c7e991d944d621831d885a5c885f2f6bf1a9b7a38451d"
 
   url "https://github.com/ArfiArfath21/sleight/releases/download/v#{version}/Sleight.dmg"
   name "Sleight"
